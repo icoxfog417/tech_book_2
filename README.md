@@ -4,6 +4,8 @@
 
 ![covers.PNG](covers.PNG)
 
+(価格は何れも500円の予定です)
+
 ## SIGNAL
 
 [SIGNAL PREVIEW](./signal_book_pre.pdf)
