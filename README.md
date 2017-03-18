@@ -1,6 +1,6 @@
 # Tech-Book2 Preview
 
-技術書典2に出店する書籍のお試し読みをすることができます。
+[技術書典2](https://techbookfest.org/event/tbf02)に出店する書籍のお試し読みをすることができます。
 
 ![covers.PNG](covers.PNG)
 
@@ -30,5 +30,7 @@
 お取り置き希望の方は、以下から申し込みをお願いいたします。
 
 [お取り置き予約用フォーム](https://goo.gl/forms/6l6xLahp2mteyp3K2)
+
+場所は[「き-03」もしくは「か-17」](https://techbookfest.org/event/tbf02/circle)です
 
 ![location.PNG](location.PNG)
