@@ -20,7 +20,7 @@
 >
 >人工知能はその進化を謳う記事の多さに比べて、そもそもどういう仕組みなのか、「学習」というけれどいったい何を 学習しているのか、ということについて解説したものはほとんどありません。 ...
 
-[SIGANL SUPPORT PAGE]()
+[SIGANL SUPPORT PAGE](./signal_support)
 
 ## Machine Learning in Business
 
