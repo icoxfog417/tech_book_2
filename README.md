@@ -1,6 +1,7 @@
-# Tech-Book2 Preview
+# Tech-Book2
 
-[技術書典2](https://techbookfest.org/event/tbf02)に出店する書籍のお試し読みをすることができます。
+[技術書典2](https://techbookfest.org/event/tbf02)に出店する書籍の紹介ページです。  
+お試し読み、またサポート情報を提供しています。
 
 ![covers.PNG](covers.PNG)
 
@@ -18,6 +19,8 @@
 >ただ、印象を持つ前に等しく重要なことがあります。それは、その「人工知能」が一体何なのかをよく知ることです。 
 >
 >人工知能はその進化を謳う記事の多さに比べて、そもそもどういう仕組みなのか、「学習」というけれどいったい何を 学習しているのか、ということについて解説したものはほとんどありません。 ...
+
+[SIGANL SUPPORT PAGE]()
 
 ## Machine Learning in Business
 
