@@ -7,7 +7,7 @@
 
 (価格は何れも500円の予定です)
 
-## SIGNAL
+## [SIGNAL(き-03)](https://techbookfest.org/event/tbf02/circle/5970629593399296)
 
 [SIGNAL PREVIEW](./signal_book_pre.pdf)
 
@@ -22,7 +22,7 @@
 
 [SIGANL SUPPORT PAGE](./signal_support)
 
-## Machine Learning in Business
+## [Machine Learning in Business (か-17)](https://techbookfest.org/event/tbf02/circle/4886349127614464)
 
 [Machine Learning in Business](./MachineLearningInBusinessPre.pdf)
 
