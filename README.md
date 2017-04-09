@@ -2,7 +2,7 @@
 
 [技術書典2](https://techbookfest.org/event/tbf02)に出店した書籍の紹介ページです。  
 
-**THANK YOU FOR COMMING!! OVER 200 books are SOLD OUT!**
+**THANK YOU FOR COMMING!! OVER 250 books are SOLD OUT!**
 
 お試し読み、またサポート情報を提供しています。また再販などの予定が決まりましたら本ページでもご連絡いたします。
 
